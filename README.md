@@ -1,5 +1,5 @@
 # VBA-challenge
-created for VBA_challenge activity
+using a smiple VBA code to analyse and present some data on Excel sheets 
   this repository contain all the information that requierd to get VBA-challenge works, it has two folders as follows:
 
   ## Screen shot 
